@@ -1,4 +1,4 @@
-# Angular 6 | Countcown timer
+# Angular 6 | Countdown timer
 
 Deprecated version: https://github.com/matheushf/ng2-date-countdown <br />
 Thanks in advice **matheushf** for the concepts.
