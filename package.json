@@ -1,0 +1,21 @@
+{
+  "name": "ng2-countdown-timer",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+  },
+  "main": "bundles/ng2-countdown-timer.umd.js",
+  "module": "fesm5/ng2-countdown-timer.js",
+  "es2015": "fesm2015/ng2-countdown-timer.js",
+  "esm5": "esm5/ng2-countdown-timer.js",
+  "esm2015": "esm2015/ng2-countdown-timer.js",
+  "fesm5": "fesm5/ng2-countdown-timer.js",
+  "fesm2015": "fesm2015/ng2-countdown-timer.js",
+  "typings": "ng2-countdown-timer.d.ts",
+  "metadata": "ng2-countdown-timer.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
