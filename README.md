@@ -9,7 +9,7 @@ Thanks in advice **matheushf** for the concepts.
 npm install ng2-countdown-timer
 ```
 
-In your `app.module`, add `CountdownModule` to your declarations:
+In your `app.module`, add `CountdownModule` to your imports:
 
 ```javascript
 import { CountdownModule } from "ng2-countdown-timer";
