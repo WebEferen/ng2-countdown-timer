@@ -16,11 +16,11 @@ import { CountdownModule } from "ng2-countdown-timer";
 
 @NgModule({
    declarations: [
-     AppComponent,
-     CountdownModule
+     AppComponent
    ],
    imports: [
-     BrowserModule
+     BrowserModule,
+     CountdownModule
    ],
    bootstrap: [AppComponent]
  })
