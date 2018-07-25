@@ -1,6 +1,20 @@
 {
   "name": "ng2-countdown-timer",
-  "version": "1.2.1",
+  "description": "Countdown timer module (from current date to the given in the binding date)",
+  "homepage": "https://github.com/WebEferen/ng2-countdown-timer",
+  "keywords": [
+    "angular5", "angular6", "angular2", "countdown", "timer", "module", "ng", "npm"
+  ],
+  "author": {
+    "email": "michal.makowski97@gmail.com",
+    "url": "https://mmakowski.online",
+    "name": "Michal Makowski"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WebEferen/ng2-countdown-timer"
+  },
+  "version": "1.2.2",
   "peerDependencies": {
     "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
     "@angular/core": "^6.0.0-rc.0 || ^6.0.0"

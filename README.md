@@ -1,7 +1,6 @@
 # Angular 6 | Countdown timer
 
-Deprecated version: https://github.com/matheushf/ng2-date-countdown <br />
-Thanks in advice **matheushf** for the concepts.
+Countdown timer module (from current date to the given in the binding date).
 
 ## Instalation
 
@@ -55,4 +54,5 @@ In your .html:
  <countdown [text]="text" units="Year | Month | Days | Hours | Minutes | Seconds"  end="July 22, 2019"></countdown>
  ```
 
+Thanks in advice **matheushf** for the concepts.
 **Inspired on the component: https://raw.githubusercontent.com/matheushf/ng2-date-countdown**
