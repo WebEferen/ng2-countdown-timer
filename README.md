@@ -55,4 +55,4 @@ In your .html:
  ```
 
 Thanks in advice **matheushf** for the concepts.
-**Inspired on the component: https://raw.githubusercontent.com/matheushf/ng2-date-countdown**
+**Inspired on the component: https://github.com/matheushf/ng2-date-countdown**
